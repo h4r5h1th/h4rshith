@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @h4rshith
+- 👀 I’m interested in Data Science and Ai
+- 🌱 I’m currently learning Data Science and Business analytics
