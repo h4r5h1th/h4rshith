@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @h4rshith
 - 👀 I’m interested in Machine Learning and web Devlopment
-- 🌱 I’m currently learning Data Science and Business analytics
+- 🌱 I’m currently learning ML and Bootstrap.
